@@ -8,9 +8,9 @@
     {
       "type": "Microsoft.Storage/storageAccounts",
       "apiVersion": "2025-01-01",
-      "name": "storageaccount1",
+      "name": "mystoragejanicek8210",
       "tags": {
-        "displayName": "storageaccount1"
+        "displayName": "mystoragejanicek8210"
       },
       "location": "[resourceGroup().location]",
       "kind": "StorageV2",
