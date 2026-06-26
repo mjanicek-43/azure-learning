@@ -1,5 +1,5 @@
 
-param location string = 'northerneurope'
+param location string = 'westeurope'
 
 resource storage 'Microsoft.Storage/storageAccounts@2023-01-01' = {
   name: 'mystorageday1demo'
