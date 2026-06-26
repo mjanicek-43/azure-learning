@@ -8,7 +8,7 @@
     {
       "type": "Microsoft.Storage/storageAccounts",
       "apiVersion": "2025-01-01",
-      "name": "mystoragejanicek8210",
+      "name": "mystoragemjanicek8210",
       "tags": {
         "displayName": "mystoragejanicek8210"
       },
